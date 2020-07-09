@@ -10,7 +10,10 @@ In this project, I apply the skills I learned in the Data Engineering section to
 Instructions: (Run run.py directly if DisasterResponse.db and classifier.pkl already exist).
 Run the following commands in the project root directory to configure the model and database.
 
-Use the following command to run the ETL pipeline which cleans the data and stores it in the python database data / process_data.py data / disaster_messages.csv data / disaster_categories.csv data / DisasterResponse.db
+Use the following command to run the ETL pipeline which cleans the data and stores it in the python database
+
+data / process_data.py data / disaster_messages.csv data / disaster_categories.csv data / DisasterResponse.db
+
 Use the following command to run the ML pipeline that forms the classifier and save the python / train_classifier.py data / DisasterResponse.db models / classifier.pkl models
 Finally, run the following command in the application directory to run the web application. Python run.py
 
