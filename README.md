@@ -1,7 +1,9 @@
 #README.md
+
 Disaster response pipeline project
 
 Author = [Narendra Sai Bathula](https://github.com/Narendrasai-Bathula)
+
 Motivation for the project
 In this project, I apply the skills I learned in the Data Engineering section to analyze the disaster data in Figure 8 to create a model for an API that classifies messages about disasters.
 
