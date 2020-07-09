@@ -1,5 +1,5 @@
 Disaster Response Pipeline Project
-## Author = Narendra Sai Bathula(https://github.com/Narendrasai-Bathula)
+## Author = [Narendra Sai Bathula](https://github.com/Narendrasai-Bathula)
 
 ## Motivation for the Project
 
