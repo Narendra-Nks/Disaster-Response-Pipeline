@@ -2,7 +2,7 @@
 
 
 ## Summary
-A web application that runs a multi-class classifier on an emergency message dataset provided by Figure Otto
+A web application that runs a multi-class classifier on an emergency message dataset provided by Figure Eight
 
 ## Instructions:
 1. Run the following commands in the project root directory to configure the model and database.
