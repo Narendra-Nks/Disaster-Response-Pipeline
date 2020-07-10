@@ -27,5 +27,5 @@ This repository contains 4 main folders
 
 ## License, author and thanks
 License: this project is licensed under the MIT license - see the License.md file for more details.
-Author: Narendra Sai Bathula
+Author: Narendra Sai Bathula (https://github.com/Narendrasai-Bathula)
 Thanks to: Udacity
